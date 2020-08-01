@@ -31,5 +31,5 @@
 
 
 Sources:  
-https://www.health.qld.gov.au/news-events/doh-media-releases/releases/public-health-alert-three-new-covid-19-cases
+https://www.health.qld.gov.au/news-events/doh-media-releases/releases/public-health-alert-three-new-covid-19-cases  
 https://www.health.qld.gov.au/news-events/doh-media-releases/releases/public-health-alert-west-moreton-and-brisbane-south
